@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software 
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical)](https://github.com/lakhdeepjawandha)
-
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical)](https://github.com/lakhdeepjawandha)
+-->
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lakhdeepsingh)
