@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software developer.
+
+## 🚀 About Me
+
+- 👨‍💻 Full-stack Developer
+- 🌐 Explorer of the digital universe
+- 🎓 Computer Science graduate
+
+## 🔧 Skills
+
+- Languages: Swift, Objective C, JavaScript, Python, HTML, CSS
+- Frameworks: React, Node.js, Django, Xcode, VSCode
+- Databases: MongoDB, MySQL
+]
+## 🌱 Currently Learning
+
+- AI, ReactNative
+
+## 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical)](https://github.com/lakhdeepjawandha)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/lakhdeepsingh)
+- [Twitter](https://twitter.com)
+
+Happy coding! 🚀
