@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software 
 
 ## 🔧 Skills
 
-- Languages: Swift, Objective C, JavaScript, Python, HTML, CSS
+- Programming Languages: Swift, Objective C, JavaScript, Python, HTML, CSS
+- Graphic Languages: Metal and Open CV
 - Frameworks: React, Node.js, Django, Xcode, VSCode
 - Databases: MongoDB, MySQL
 ]
