@@ -40,6 +40,6 @@ Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lakhdeepsingh)
-- [Twitter](https://twitter.com)
+- [Twitter](https://twitter.com/LakhdeepJawand1)
 
 Happy coding! 🚀
