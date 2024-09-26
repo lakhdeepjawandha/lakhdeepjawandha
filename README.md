@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software 
 
 ## 🚀 About Me
 
-- 👨‍💻 Full-stack Developer
+- 👨‍💻 Mobile Application Developer
 - 🌐 Explorer of the digital universe
 - 🎓 Computer Science graduate
 
