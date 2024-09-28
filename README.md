@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software 
 - Graphic Languages: Metal and Open CV
 - Frameworks: React, Node.js, Django, Xcode, VSCode
 - Databases: MongoDB, MySQL
-]
+
 ## 🌱 Currently Learning
 
 - AI, ReactNative
