@@ -14,29 +14,102 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile! I'm Lakheep Singh Jawandha, a passionate software developer.
 
-## 🚀 About Me
 
-- 👨‍💻 Mobile Application Developer
-- 🌐 Explorer of the digital universe
-- 🎓 Computer Science graduate
+# Hi 👋 I'm Lakhdeep Singh Jawaandha
 
-## 🔧 Skills
+🇦🇺 Melbourne-based Senior iOS Engineer | {{YEARS}}+ Years Experience  
+Swift • SwiftUI • UIKit • AVFoundation • Metal
 
-- Programming Languages: Swift, Objective C, React, JavaScript, Python, HTML, CSS
-- Graphic Languages: Metal, OpenGL and Open CV
-- Frameworks: React, Node.js, Django, Xcode, VSCode
-- Databases: MongoDB, MySQL
+I’m a Senior iOS Engineer with {{EXPERIENCE}} of experience building high-quality, user-centric mobile applications. I’ve delivered 25+ apps across social media, video, OTT, fintech, and scalable consumer platforms — including apps ranked in the Top 10 on the US App Store and used by millions globally.
 
-## 🌱 Currently Learning
+Currently based in Australia (PR), I bring a strong mix of **hands-on engineering, product thinking, and team leadership**, with a focus on building scalable, maintainable, and high-performance iOS applications.
 
-- AI, ReactNative
+---
 
+## 💼 What I Bring
+
+- 📱 End-to-end iOS development using **Swift, SwiftUI, UIKit, Objective-C**
+- 🧩 Strong focus on **clean architecture, modularisation, and scalability**
+- 🎥 Deep expertise in **video, camera, and media processing** (AVFoundation, Metal, OpenGL)
+- ⚡ Performance optimisation for large-scale apps (memory, rendering, startup time)
+- 🤝 Strong collaboration with **product, design, backend, and data teams**
+- 🧑‍💻 Experience mentoring engineers and improving engineering standards
+
+---
+
+## 🌍 Domain Experience & Interest
+
+I have built and contributed to products aligned with:
+
+- 🛒 **eCommerce & Payments** — payment gateway integrations (Stripe, PayPal), secure transactions, scalable user flows
+- 🏥 **Health & Wellness** — performance-sensitive apps, real-time data handling, and privacy-focused architectures
+- 🏏 **Sports & Real-time Systems** — live data, streaming, and engagement-driven features
+- 🎬 Media Streaming & OTT — scalable streaming apps, adaptive bitrate, video-on-demand, live streaming
+- 🤖 **AI-driven Features** — personalised content feeds, recommendation systems, and smart user experiences
+- 🎬 **Media & Content Platforms** — video editing, streaming, camera SDKs (core strength)
+
+---
+
+## 🔧 Tech Stack
+
+**Core iOS**
+- Swift, SwiftUI, UIKit, Combine, RxSwift
+
+**Media & Performance**
+- AVFoundation, Metal, Core Animation, Core Graphics
+
+**Architecture**
+- MVVM, VIPER, Modular Architecture, Protocol-Oriented Programming
+
+**Data & Backend**
+- REST APIs, GraphQL, Firebase, AWS
+
+**Tools & Practices**
+- CI/CD, Fastlane, Unit/UI Testing, Agile/Scrum, DevSecOps
+
+---
+
+## 🌟 Highlights
+
+- 📺 Delivered high-performance OTT & media apps with thousands of concurrent users
+- 🚀 Built and scaled apps used by **millions of users** with ~99% crash-free rate
+- 🏆 Delivered apps ranked in the **Top 10 US App Store**
+- ⚙️ Reduced build times by **40%** via modular architecture & internal SDKs
+- 💡 Replaced costly third-party SDKs with in-house solutions (significant cost savings)
+- 🎬 Developed advanced **video editing, live streaming, and camera systems**
+
+---
+
+## 🧠 Current Focus
+
+- SwiftUI-first and modern iOS architecture
+- High-performance media processing & rendering
+- Building scalable apps across **eCommerce, HealthTech, and AI-powered platforms**
+- Cross-platform strategies (React Native / KMP)
+
+---
+
+## 🌐 Links
+
+- Portfolio: https://lakhdeep.vercel.app/
+- GitHub: https://github.com/lakhdeepjawandha
+- LinkedIn: https://linkedin.com/in/lakhdeepsingh
+
+---
+
+## 🤝 Open to
+
+- Senior iOS roles in product-driven companies (eCommerce, HealthTech, SportsTech, AI)
+- Collaboration on scalable mobile systems & SDKs
+- Media, performance, and real-time applications
+
+<!--
 ## 📈 GitHub Stats
 
-<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical)](https://github.com/lakhdeepjawandha)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical)](https://github.com/lakhdeepjawandha)
 -->
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lakhdeepsingh)

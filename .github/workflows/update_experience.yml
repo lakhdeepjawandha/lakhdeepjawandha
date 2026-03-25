@@ -1,0 +1,59 @@
+name: Update Experience in README
+
+# Trigger every month (1st day at midnight UTC) and allow manual runs
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Calculate years and months of experience
+        id: calc
+        run: |
+          START_YEAR=2015
+          START_MONTH=7  # July
+          TODAY_YEAR=$(date +'%Y')
+          TODAY_MONTH=$(date +'%m')
+
+          YEARS=$((TODAY_YEAR - START_YEAR))
+          MONTHS=$((TODAY_MONTH - START_MONTH))
+
+          if [ "$MONTHS" -lt 0 ]; then
+            YEARS=$((YEARS - 1))
+            MONTHS=$((MONTHS + 12))
+          fi
+
+          # Format experience nicely
+          if [ "$MONTHS" -eq 0 ]; then
+            EXPERIENCE="$YEARS years"
+          elif [ "$MONTHS" -eq 1 ]; then
+            EXPERIENCE="$YEARS years 1 month"
+          else
+            EXPERIENCE="$YEARS years $MONTHS months"
+          fi
+
+          echo "YEARS=$YEARS" >> $GITHUB_ENV
+          echo "MONTHS=$MONTHS" >> $GITHUB_ENV
+          echo "EXPERIENCE=$EXPERIENCE" >> $GITHUB_ENV
+          echo "Calculated experience: $EXPERIENCE"
+
+      - name: Update README.md
+        run: |
+          sed -i "s/{{YEARS}}/$YEARS/g" README.md
+          sed -i "s/{{MONTHS}}/$MONTHS/g" README.md
+          sed -i "s/{{EXPERIENCE}}/$EXPERIENCE/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update experience to $EXPERIENCE [skip ci]" || echo "No changes to commit"
+          git push
