@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Lakhdeep Singh Jawaandha
 
-🇦🇺 Melbourne-based Senior iOS Engineer | {{YEARS}}+ Years Experience  
+🇦🇺 Melbourne-based Senior iOS Engineer | 10+ Years Experience  
 Swift • SwiftUI • UIKit • AVFoundation • Metal
 
-I’m a Senior iOS Engineer with {{EXPERIENCE}} of experience building high-quality, user-centric mobile applications. I’ve delivered 25+ apps across social media, video, OTT, fintech, and scalable consumer platforms — including apps ranked in the Top 10 on the US App Store and used by millions globally.
+I’m a Senior iOS Engineer with 10 years 8 months of experience building high-quality, user-centric mobile applications. I’ve delivered 25+ apps across social media, video, OTT, fintech, and scalable consumer platforms — including apps ranked in the Top 10 on the US App Store and used by millions globally.
 
 Currently based in Australia (PR), I bring a strong mix of **hands-on engineering, product thinking, and team leadership**, with a focus on building scalable, maintainable, and high-performance iOS applications.
 
