@@ -106,7 +106,15 @@ I have built and contributed to products aligned with:
 ## 📈 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical)](https://github.com/lakhdeepjawandha)
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdeepjawandha&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&range=month)](https://github.com/lakhdeepjawandha)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakhdeepjawandha&theme=radical)](https://github.com/lakhdeepjawandha)
+
 -->
+## 📈 GitHub Stats (Current Month)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhdeepjawandha&layout=compact&theme=radical)](https://github.com/lakhdeepjawandha)
 
 ## 📫 Let's Connect
 
